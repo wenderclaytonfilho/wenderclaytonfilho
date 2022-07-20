@@ -25,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wenderclaytonfilho&" alt="wenderclaytonfilho" /></p>
 
+![Snake animation](https://github.com/wenderclaytonfilho/wenderclaytonfilho/blob/output/github-contribution-grid-snake.svg)
+
