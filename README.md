@@ -1,6 +1,6 @@
-# Hi there 👋
+# Olá!
 
-<div align="left">
+<div align="right">
   <a href=https://mobile.twitter.com/_Wendii27">
     <img
       src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
