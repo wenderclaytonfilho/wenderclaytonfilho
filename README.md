@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wenderclaytonfilho&" alt="wenderclaytonfilho" /></p>
 
-<div width="50%" heigth="50%" ><a href="https://app.daily.dev/wenderfilho"><img src="https://api.daily.dev/devcards/4bc1ca1375184105904cb55c6336dbe0.png?r=byy"  alt="Wender Clayton Bezerra de Lima Filho's Dev Card"/></a></div>
+<div width="250px" heigth="250px" ><a href="https://app.daily.dev/wenderfilho"><img src="https://api.daily.dev/devcards/4bc1ca1375184105904cb55c6336dbe0.png?r=byy"  alt="Wender Clayton Bezerra de Lima Filho's Dev Card"/></a></div>
 
 ![Snake animation](https://github.com/wenderclaytonfilho/wenderclaytonfilho/blob/output/github-contribution-grid-snake.svg)
 
