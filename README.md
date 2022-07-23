@@ -20,8 +20,15 @@
 
 ## Me chamo Wender!
 
-- Atualmente estou cursando Bacharelado em Sistemas de Informação na UFRPE
-- Um amante de café!!
+- Atualmente cursando Bacharelado em Sistemas de Informação na UFRPE.
+- Aprendendo HTML, CSS, JavaScript, Java e Python.
+<div style="display: inline_block"><br>-
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
+</div>
+ <hr>
+- ☕️ Um amante de café!!
 - 📫 Entre em contato por: **wender.clayton@ufrpe.br**
 </br>
 <h3 align="left">Tecnologias que conheço</h3>
