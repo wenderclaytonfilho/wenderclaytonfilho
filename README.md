@@ -1,6 +1,5 @@
 <h1 align="center">Olá! Me chamo Wender</h1>
 <h3 align="center">Atualmente cursando Bacharelado em Sistemas de Informação na UFRPE,</h3>
-<a href="https://app.daily.dev/wenderfilho"><img src="https://api.daily.dev/devcards/4bc1ca1375184105904cb55c6336dbe0.png?r=byy"  width="50%" heigth="50%" alt="Wender Clayton Bezerra de Lima Filho's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wenderclaytonfilho&label=Profile%20views&color=0e75b6&style=flat" alt="wenderclaytonfilho" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wenderclaytonfilho" alt="wenderclaytonfilho" /></a> </p>
@@ -24,6 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wenderclaytonfilho&show_icons=true&locale=en" alt="wenderclaytonfilho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wenderclaytonfilho&" alt="wenderclaytonfilho" /></p>
+
+<div width="50%" heigth="50%" ><a href="https://app.daily.dev/wenderfilho"><img src="https://api.daily.dev/devcards/4bc1ca1375184105904cb55c6336dbe0.png?r=byy"  alt="Wender Clayton Bezerra de Lima Filho's Dev Card"/></a></div>
 
 ![Snake animation](https://github.com/wenderclaytonfilho/wenderclaytonfilho/blob/output/github-contribution-grid-snake.svg)
 
