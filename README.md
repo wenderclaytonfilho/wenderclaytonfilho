@@ -16,6 +16,7 @@
 
   <a href="https://app.daily.dev/wenderfilho"><img src="https://api.daily.dev/devcards/4bc1ca1375184105904cb55c6336dbe0.png?r=yz0" width="220" align="right" alt="Wender Clayton Bezerra de Lima Filho's Dev Card"/></a>
 </div>
+</hr>
 
 ## Me chamo Wender!
 
