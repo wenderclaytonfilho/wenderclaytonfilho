@@ -1,6 +1,6 @@
 # Olá!
 
-<div align="right">
+<div align="left">
   <a href=https://mobile.twitter.com/_Wendii27">
     <img
       src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -14,7 +14,7 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/wenderfilho"><img src="https://api.daily.dev/devcards/4bc1ca1375184105904cb55c6336dbe0.png?r=yz0" width="220" align="left" alt="Wender Clayton Bezerra de Lima Filho's Dev Card"/></a>
+  <a href="https://app.daily.dev/wenderfilho"><img src="https://api.daily.dev/devcards/4bc1ca1375184105904cb55c6336dbe0.png?r=yz0" width="220" align="right" alt="Wender Clayton Bezerra de Lima Filho's Dev Card"/></a>
 </div>
 
 ## Me chamo Wender!
