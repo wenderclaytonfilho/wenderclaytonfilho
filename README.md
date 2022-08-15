@@ -1,7 +1,18 @@
-<h2 align="left">Olá! Me chamo Wender e sou um Desenvolvedor de Jogos e Desenvolvedor Web!</h2>
+<h2 align="left">Olá! Seja bem vindo ao meu perfil!</h2>
 
 ###
+<h2 align='left'>Sobre mim</h2>
+<p>Me chamo Wender, e atualmente estou cursando Bacharelado em Sistemas de Informação, na UFRPE</p>
+<p>Sou Desenvolvedor Web e Desenvolvedor de Jogos</p>
+<p>Trabalho com a Godot Engine para desenvolvimento de jogos!</p>
+###
 
+<div align="center">
+  <img height="200" src="https://64.media.tumblr.com/aeb957b9e66b5acd7d23fe20bc016dea/f2bbccd1a1336c9d-d5/s540x810/e22552647ab65b0ed9f3b924aa5b9b57dcc52d47.gifv"  />
+</div>
+
+###
+S
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=wenderclaytonfilho" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=wenderclaytonfilho" height="150" alt="languages graph"  />
