@@ -22,7 +22,7 @@
 
 - Atualmente cursando Bacharelado em Sistemas de Informação na UFRPE.
 - Web Developer
-- Games Developer
+- Game Developer
 - Aprendendo HTML, CSS, JavaScript, Java e Python.
 <div style="display: inline_block"><br>-
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
