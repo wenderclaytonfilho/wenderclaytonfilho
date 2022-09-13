@@ -61,7 +61,7 @@
 ###
 
 <br clear="both">
-![Snake animation](https://github.com/wenderclaytonfilho/wenderclaytonfilho/blob/output/github-contribution-grid-snake.svg)
+<img src='https://github.com/wenderclaytonfilho/wenderclaytonfilho/blob/output/github-contribution-grid-snake.svg'
 ###
 
 <h2 align="left">Volte sempre!</h2>
