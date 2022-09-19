@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Prazer, Wender Clayton! ou desenvolvedor Web e Desktop.</h2>
+<h2 align="left">Prazer, Wender Clayton! Sou desenvolvedor Web e Desktop.</h2>
 
 ###
 
