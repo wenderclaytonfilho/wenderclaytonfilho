@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="left">Prazer, Wender Clayton! Sou desenvolvedor Web e Desktop.</h2>
+<h2 align="left">Prazer, Wender Clayton! Sou desenvolvedor Web.</h2>
 
 ###
 
-<h3 align="left">Faço uns joguinhos de vez em quando :P</h3>
+<h4 align="left">Faço uns joguinhos de vez em quando :P</h3>
 
 ###
 
